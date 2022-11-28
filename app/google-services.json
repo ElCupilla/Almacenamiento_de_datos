@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904395865581",
+    "project_id": "datos-del-person",
+    "storage_bucket": "datos-del-person.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904395865581:android:787083ef26c65542f3fbe4",
+        "android_client_info": {
+          "package_name": "com.example.almacenamientodedatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904395865581-pi1fpnm3qenhrkotn9tuifei8104nu9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZ5YXbf3gsilw7miTWYPeDg5SmcvhrGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904395865581-pi1fpnm3qenhrkotn9tuifei8104nu9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
